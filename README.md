@@ -14,6 +14,7 @@ Feature 'Class' is the response variable and it takes value 1 in case of fraud a
 
 Since the dataset is unbalanced, we have done under sampling the dataset and have used Logistic Regression as well as Random Forest Classifier on the balanced dataset.
 
+**We got AUC of Random Forest Classifier equal to 0.9444 and AUC of Logistic Regression equal to 0.9436.**
 
 ""Acknowledgements""
 The dataset has been collected and analysed during a research collaboration of Worldline and the Machine Learning Group (http://mlg.ulb.ac.be) of ULB (Université Libre de Bruxelles) on big data mining and fraud detection.
